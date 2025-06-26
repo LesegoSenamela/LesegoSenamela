@@ -29,6 +29,9 @@ I’m currently learning Python ML and AI techniques.
 I’m looking to collaborate on Frontend, Backend, Database setup and management, cybesecurity and more...
 
 Fun fact: I actually did Math in undegrad
+### 🤔 I’m looking for help with 
+
+Deploying MediVault. This is a web-based application that is hewvily database dependent. I am struggling with getting a database host, then we would need to modify the code to fetch the data from the deployed database. Any form of assistance would be appreciated.  
 
 ### 📫 Let’s connect
 [LinkedIn](https://www.linkedin.com/in/lesego-senamela) • Email: senamelalesego@gmail.com
