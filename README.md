@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ## Hi there 👋 I’m Lesego
 
 💻 Frontend Developer | Backend Developer | Database Management | Data Enthusiast | AI & ML Learner  
-🔬 Interested in HPC, cybersecurity, AI & ML  
-🚀 Projects: [MediVault](https://github.com/LesegoSenamela/MediVault), [AI Phishing Detector](https://cybersecurity-phishing-detector.streamlit.app/)
+🔬 Interested in HPC, Cybersecurity, AI & ML  
+🚀 Projects: [MediVault](https://github.com/LesegoSenamela/MediVault), [AI Phishing Detector](https://cybersecurity-phishing-detector.streamlit.app/), [Banking App](https://github.com/LesegoSenamela/BankingApp)
 
 ### 🛠️ Languages & Tools
 Java • Python • PHP • SQL • C++ • HTML • CSS • JavaScript • MySQL • MATLAB • Streamlit
 
-### Information
+### 🔭Information
 
 I’m currently working on Developing a banking system using C++ and Improving my skills.
 I’m currently learning Python ML and AI techniques.
