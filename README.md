@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋 I’m Lesego
 
-💻 Frontend Developer | Backend Developer | Database Management | Data Enthusiast | AI & ML Learner  
+💻 Frontend Developer | Database Management | Data Enthusiast | AI & ML Enthusiast 
 🔬 Interested in HPC, Cybersecurity, AI & ML  
 🚀 Projects: [MediVault](https://github.com/LesegoSenamela/MediVault), [AI Phishing Detector](https://cybersecurity-phishing-detector.streamlit.app/), [Banking App](https://github.com/LesegoSenamela/BankingApp)
 
@@ -26,7 +26,7 @@ Java • Python • PHP • SQL • C++ • HTML • CSS • JavaScript • MySQ
 
 I’m currently working on Developing a banking system using C++ and Improving my skills.
 I’m currently learning Python ML and AI techniques.
-I’m looking to collaborate on Frontend, Backend, Database setup and management, cybesecurity and more...
+I’m looking to collaborate on Frontend, Database setup and management, Cybesecurity and more...
 
 Fun fact: I actually did Math in undegrad
 ### 🤔 I’m looking for help with 
