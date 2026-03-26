@@ -34,4 +34,4 @@ Fun fact: I actually did Math in undegrad
 Deploying MediVault. This is a web-based application that is heavily database dependent. I am struggling with getting a database host, then we would need to modify the code to fetch the data from the deployed database. Any form of assistance would be appreciated.  
 
 ### 📫 Let’s connect
-[LinkedIn](https://www.linkedin.com/in/lesegosenamela) • Email: senamelalesego@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lesegosenamela) • [Email](senamelalesego@gmail.com)
